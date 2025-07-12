@@ -6,7 +6,7 @@
 body{
     font-family: "Poppins", sans-serif;
     min-height: 100vh;
-    background-image:url("/images/minecraft.jpg");
+    background-image:url("images/minecraft.jpg");
     background-size: cover;
 }
 .poppins-bold {
